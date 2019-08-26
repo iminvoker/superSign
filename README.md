@@ -49,9 +49,9 @@
 3.返回接收用户的udid数据，比如：UDID，需要在.mobileconfig描述文件中配置好，以及服务器接收数据的URL地址；
 
 
-需要超级签名  立即扫码
-![https://github.com/iminvoker/superSign/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-26%20%E4%B8%8B%E5%8D%888.44.41.png?raw=true]
+需要超级签名  立即扫码  非代理
 
+![扫码 获取超级签名  非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-26%20%E4%B8%8B%E5%8D%888.44.41.png "扫码 获取超级签名  非代理")
 
 
 
