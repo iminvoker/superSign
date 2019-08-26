@@ -1,16 +1,3 @@
-![]()
-
-[首页](https://segmentfault.com/)[问答](https://segmentfault.com/questions)[专栏](https://segmentfault.com/blogs)[讲堂](https://segmentfault.com/lives)
-
-更多
-
-[](https://segmentfault.com/search)
-
-# [](https://segmentfault.com/)
-[](https://segmentfault.com/user/login)
-[![天下](https://static.segmentfault.com/v-5d5e3c1d/global/img/user-64.png)](https://segmentfault.com/u/tianxia_5aa238112a2f4)
-
-[**天下**](https://segmentfault.com/u/tianxia_5aa238112a2f4) ![](https://static.segmentfault.com/v-5d5e3c1d/global/img/rp.svg)13 天前发布
 
 # [iOS APP超级签名的成本费用及技术流程](https://segmentfault.com/a/1190000020165645)
 
@@ -60,4 +47,7 @@
 2.用户安装.mobileconfig描述文件！
 
 3.返回接收用户的udid数据，比如：UDID，需要在.mobileconfig描述文件中配置好，以及服务器接收数据的URL地址；
+
+
+
 
