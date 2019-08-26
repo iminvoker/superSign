@@ -50,7 +50,8 @@
 
 
 需要超级签名  立即扫码
-("https://github.com/iminvoker/superSign/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-26%20%E4%B8%8B%E5%8D%888.44.41.png")
+![%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-26%20%E4%B8%8B%E5%8D%888.44.41.png](https://github.com/iminvoker/superSign/blob/master/ "%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-08-26%20%E4%B8%8B%E5%8D%888.44.41.png")
+
 
 
 
