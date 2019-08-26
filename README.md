@@ -1,4 +1,19 @@
-# superSign
+![]()
+
+[首页](https://segmentfault.com/)[问答](https://segmentfault.com/questions)[专栏](https://segmentfault.com/blogs)[讲堂](https://segmentfault.com/lives)
+
+更多
+
+[](https://segmentfault.com/search)
+
+# [](https://segmentfault.com/)
+[](https://segmentfault.com/user/login)
+[![天下](https://static.segmentfault.com/v-5d5e3c1d/global/img/user-64.png)](https://segmentfault.com/u/tianxia_5aa238112a2f4)
+
+[**天下**](https://segmentfault.com/u/tianxia_5aa238112a2f4) ![](https://static.segmentfault.com/v-5d5e3c1d/global/img/rp.svg)13 天前发布
+
+# [iOS APP超级签名的成本费用及技术流程](https://segmentfault.com/a/1190000020165645)
+
 因为苹果企业签名的不稳定，很多人把目光转移到苹果超级签名这种方式，想要一个稳定长久的运行方式！
 
 超级签名需要要用到的基本资料！
@@ -14,17 +29,17 @@
 加上分发系统这边的成本，合计安装一个十来块！如果用户量大的成本会非常高！
 
 超级签名的优点就是非常稳定，不会像企业证书签名容易掉签问题，而且不用信任，安装后直接可以启动！追求稳定的很适合！
-QQ%E5%9B%BE%E7%89%8720190822105310.png
+![QQ%E5%9B%BE%E7%89%8720190822105310.png](https://segmentfault.com/img/bVbwMar?w=740&h=223 "QQ%E5%9B%BE%E7%89%8720190822105310.png")
 
 超级签名技术流程图
 
-17754767-5232c3f381b95597.png
+![17754767-5232c3f381b95597.png](https://segmentfault.com/img/bVbwMah?w=661&h=301 "17754767-5232c3f381b95597.png")
 
 超级签名技术细节原理
 
 简单来说，就是把添加苹果设备udid然后打包进行真机测试的过程（如下面真机测试教程），实现了自动化！
 
-申请ad hoc证书打包iOS真机测试教程
+[申请ad hoc证书打包iOS真机测试教程](http://www.applicationloader.net/blog/zh/2514.html)
 
 整体运行流程
 
@@ -46,4 +61,3 @@ QQ%E5%9B%BE%E7%89%8720190822105310.png
 
 3.返回接收用户的udid数据，比如：UDID，需要在.mobileconfig描述文件中配置好，以及服务器接收数据的URL地址；
 
-获取设备udid的描述文件.mobileconifg写法例子
