@@ -5,8 +5,8 @@
 
 
 
-![扫码 获取超级签名非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/IMG_2425.PNG "扫码 获取超级签名  非代理")
-![扫码 获取超级签名非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/IMG_2426.PNG "扫码 获取超级签名  非代理")
+![扫码 获取超级签名非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/IMG_24251.PNG "扫码 获取超级签名  非代理")
+![扫码 获取超级签名非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/IMG_24261.PNG "扫码 获取超级签名  非代理")
 
 
 超级签名的优点就是非常稳定，不会像企业证书签名容易掉签问题，而且不用信任，安装后直接可以启动！追求稳定的很适合！
