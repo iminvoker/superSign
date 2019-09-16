@@ -1,13 +1,10 @@
 
-# [iOS APP超级签名的成本费用及技术流程](https://segmentfault.com/a/1190000020165645)
+# [iOS APP超级签名平台如图 
 
-因为苹果企业签名的不稳定，很多人把目光转移到苹果超级签名这种方式，想要一个稳定长久的运行方式！
+非市面上的linux打包
 
-超级签名需要要用到的基本资料！
-
-1、个人或者公司的苹果开发者账号
-
-2、超级签名分发系统！
+![扫码 获取超级签名非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/IMG_2425.PNG "扫码 获取超级签名  非代理")
+![扫码 获取超级签名非代理](https://raw.githubusercontent.com/iminvoker/superSign/master/IMG_2426.PNG "扫码 获取超级签名  非代理")
 
 
 超级签名的优点就是非常稳定，不会像企业证书签名容易掉签问题，而且不用信任，安装后直接可以启动！追求稳定的很适合！
